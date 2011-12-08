@@ -1,0 +1,5 @@
+${image [current] -p 90,70 -s 78x78 }
+${image [forec1] -p 20,170 -s 40x40 }
+${image [forec2] -p 70,170 -s 40x40 }
+${image [forec3] -p 120,170 -s 40x40 }
+${image [forec4] -p 170,170 -s 40x40 }
